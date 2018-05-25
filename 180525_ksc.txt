@@ -1,0 +1,18 @@
+-This name is already in use
+* 이미 사용중인 이름입니다
+-This is your usemame. You add the name of your organization fater.
+* 이것은 당신의 usemame 것입니다. 당신은 당신의 조직 fater의 이름을 추가합니다.
+-We will occasionally send updates to your account in your inbox, and you will not share your email address with anyone.
+* 때때로이받은 편지함에 귀하의 계정에 대한 업데이트를 보내 드리며, 귀하는 귀하의 이메일 주소를 누구와도 공유하지 않을 것입니다.
+
+-Create an account.
+* 계정을 만들자.
+-Please select a personal plan.
+* 개인 계획을 선택하십시오.
+-Free unlimited public repositories
+* 무료 무제한 공개 저장소
+
+-Help us with the following organization settings:
+* 다음 조직 설정을 도와주세요.
+-How would you describe your programming experience?
+* 프로그래밍 경험에 대해 어떻게 설명 하시겠습니까?
